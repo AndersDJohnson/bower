@@ -31,7 +31,7 @@
     "fstream-ignore": "^1.0.2",
     "glob": "^4.3.2",
     "graceful-fs": "^3.0.5",
-    "handlebars": "^2.0.0",
+    "handlebars": "^4.7.10",
     "inquirer": "0.8.0",
     "insight": "^0.5.0",
     "is-root": "^1.0.0",
